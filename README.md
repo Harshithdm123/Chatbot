@@ -1,9 +1,9 @@
 # Getting Started with Create React App
-#ai-chatbot
+# ai-chatbot
 
 This is a simple chatbot application built with React. It allows users to interact with a basic chatbot that provides predefined responses to a limited set of questions.
 
-##Features:
+## Features:
 
 User input: Users can enter text messages and send them to the chatbot.
 Chat history: The conversation history is displayed on the screen.
@@ -13,13 +13,7 @@ To run the project:
 
 Clone the repository:
 
-Bash
-
-git clone <repository_url>
-Navigate to the project directory:
-
-Bash
-
+## Bash
 cd ai-chatbot
 Install dependencies:
 
@@ -33,8 +27,7 @@ Bash
 
 npm start
 or
-Bash
-
+## Bash
 yarn start
 The application will be 1  accessible at http://localhost:3000 in your web browser.   
  1. 
@@ -53,7 +46,7 @@ Bash
 yarn build
 This will create an optimized build of the application in the build folder.
 
-Customization:
+## Customization:
 
 Add more responses: Modify the botResponses object in src/App.js to add more predefined responses for the chatbot.
 Improve the UI/UX: Customize the CSS in src/App.css to enhance the visual appearance and user experience.
